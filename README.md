@@ -6,7 +6,7 @@
 Este repositório contém um bot do Discord que utiliza Python e possui comunicação via servidor socket. Siga as instruções abaixo para configurar o ambiente e executar o bot.
 
 ## Criar Bot 
-1. Acessar o Portal do Desenvolvedor do Discord e (se não possuir) um bot você deve criar um aplicativo e configurar um bot conforme o desafio.
+1. Acessar o Portal do Desenvolvedor do Discord e (se não possuir um bot) você deve criar um aplicativo e configurar um bot conforme o desafio.
 
 ## Configuração do Ambiente
 
@@ -53,11 +53,11 @@ Este repositório contém um bot do Discord que utiliza Python e possui comunica
 Se tudo estiver configurado corretamente, seu bot do Discord deve estar online e pronto para uso!
 
 ## Funcionalidades
-● Responder ao comando ping com pong.
-● Jogar o jogo &quot;Pedra, Papel, Tesoura&quot; com os usuários, determinando o vencedor baseado na escolha do usuário e do servidor.
-● Enviar e receber mensagens entre o bot e o servidor socket, processando as respostas adequadamente.
-● Responder ao comando !quote com uma citação aleatória que foi acessada por uma API externa Dummyjson.
-● Responder a saudação “Hello” com Hello e o nome do usuário que iniciou a comunicação.
+- Responder ao comando ping com pong.
+- Jogar o jogo &quot;Pedra, Papel, Tesoura&quot; com os usuários, determinando o vencedor baseado na escolha do usuário e do servidor.
+- Enviar e receber mensagens entre o bot e o servidor socket, processando as respostas adequadamente.
+- Responder ao comando !quote com uma citação aleatória que foi acessada por uma API externa Dummyjson.
+- Responder a saudação “Hello” com Hello e o nome do usuário que iniciou a comunicação.
 
 ## Membros da Equipe
 
